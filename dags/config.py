@@ -1,5 +1,0 @@
-tickers = [
-    "SBER",
-    "GAZP",
-    "MOEX",
-    ]  
