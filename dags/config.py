@@ -1,8 +1,5 @@
-
-
 tickers = [
-    {"tickers": "SBER"},
-    {"tickers": "AAPL"},
-    {"tickers": "GAZP"},
-    {"tickers": "MOEX"},
+    "SBER",
+    "GAZP",
+    "MOEX",
     ]  
